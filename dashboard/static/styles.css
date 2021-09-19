@@ -1,0 +1,38 @@
+@media only screen and (min-width: 767px){
+    #sidepannel{
+        min-height: 94vh;
+    }
+}
+#sidepannel{
+    background: linear-gradient(#f13b4c, #026982)
+}
+
+
+.btn{
+    border-radius: 25px;
+}
+#sidepannel p{
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+.form-control{
+    border-radius:25px;
+}
+.card{
+    background-color: transparent;
+}
+
+#dash-card{
+    background-image: url(dashboard.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: hard-light;
+}
+#hist{
+    background: linear-gradient(#581f1fb0, #737475)
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
